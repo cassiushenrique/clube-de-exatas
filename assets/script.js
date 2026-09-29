@@ -1,7 +1,7 @@
 // TROQUE APENAS ESTES DOIS LINKS quando os formulários estiverem prontos.
 const FORMULARIOS = {
-  participantes: "", // Ex.: "https://forms.gle/SEU_LINK"
-  extensionistas: "" // Ex.: "https://forms.gle/SEU_LINK"
+  participantes: "https://forms.gle/V8P6cAPm72ESgXadA",
+  extensionistas: ""
 };
 
 function configurarLink(selector, url) {
